@@ -4,20 +4,25 @@
 Notes on the book: 
 _Deep Work - Rules for Focused Success in a Distracted World_ by Cal Newport
 
-* About the author
+* [Youtube Video](https://www.youtube.com/watch?v=3E7hkPZ-HTk)
 
-    - MS & PhD in Computer Science from MIT
-        + Thesis: [Distributed computation on unreliable radio channels](https://dspace.mit.edu/handle/1721.1/55120)
-            * (fucking 175 pages)
-    
-    - Now a professor at Georgetown
-        + 
+## about the author
 
-    - Multiple other self-improvement books
+- MS & PhD in Computer Science from MIT
+    + Thesis: [Distributed computation on unreliable radio channels](https://dspace.mit.edu/handle/1721.1/55120)
+        * (fucking 175 pages)
 
-        + _So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love._
+- Now a professor at Georgetown
+    + Research: Distributed System
+    + Courses: Intro to CS, Theory of Computation
 
-        + Others aimed at School / College students
+- Multiple other self-improvement books
+
+    + _So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love._
+
+    + Others aimed at School / College students
+
+- Worked with [Erik Demaine](https://en.wikipedia.org/wiki/Erik_Demaine)
 
 ## why?
 
