@@ -5,10 +5,11 @@ See what are some really influential papers of the recent years (post 2000, 2010
 
 Build a graph where nodes are papers, edges are references/citations.
 
-Some clusters would form: bitcoin, blockchain, machine-learning etc.
-    - Some papers would cross clusters 
+* Some clusters would form: bitcoin, blockchain, machine-learning etc.
+    - Some of these papers would cross clusters
 
-A dynamic timeline which filters papers past dates
+The UI could have a timeline slider which restricts papers to certain time windows.
+
 
 ## What are we looking for?
 
@@ -21,6 +22,13 @@ WHERE year(pub_date) > 2000
 ORDER BY citation_count DESC
 LIMIT 50
 ```
+
+* See how quickly has the Blockchain field grown?
+    - Plot papers in each year
+
+* See what is the location of the authors?
+    - Which university is publishing the most blockchain papers per year?
+    - Who are the top people?
 
 ## Data Sources
 
