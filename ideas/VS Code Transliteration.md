@@ -2,7 +2,23 @@
 
 Gold Standard: https://www.google.co.in/inputtools/try/
 
+Extension: https://github.com/varunkumar/google-input-tools
+
 ## Libraries
+
+* Quillpad
+    - http://www.quillpad.in/index.html
+
+    - Has open-source server & a client side library
+        - Tried running, lots of setup
+
+* Varnam project
+
+    - https://www.varnamproject.com/
+
+    - https://github.com/varnamproject/libvarnam
+
+    - Has an API too: https://www.varnamproject.com/editor 
 
 * Polyglot
     - https://github.com/aboSamoor/polyglot
@@ -16,6 +32,10 @@ Gold Standard: https://www.google.co.in/inputtools/try/
     - https://github.com/sanskrit-coders/indic_transliteration/
 
     - [Lack of Urdu](https://github.com/sanskrit-coders/indic_transliteration/issues/16)
+
+## Misc. Links
+
+* https://en.wiktionary.org/wiki/Wiktionary:Hindi_transliteration
 
 ## Approaches
 

@@ -1,4 +1,3 @@
-
 # Who owns India's History?
 
 > A critique of [Shashi Tharoor](https://en.wikipedia.org/wiki/Shashi_Tharoor)'s ["Inglorious Empire"](https://en.wikipedia.org/wiki/Inglorious_Empire) - by [Charles Allen](https://en.wikipedia.org/wiki/Charles_Allen_(writer)).
@@ -120,3 +119,21 @@ Tharoor's book "Inglorious Empire" is a formalisation of his views presented in 
     - [Declined the Padma Bhushan awards twice](https://www.hindustantimes.com/india/why-i-declined-padma-awards/story-qKcAKXJefdZXIHpXhLeUTL.html)
 
     - [Views on revisionist historiography](https://en.wikipedia.org/wiki/Romila_Thapar#Views_on_revisionist_historiography)
+
+* Why study history at all?
+    - Since there are no right answers
+    - Someone says one thing, someone else says the other
+    - Who knows what really happened
+    - And since we can't know _the_ truth, is there any point in pursuing it?
+
+    - Same applies to Philosophy
+
+* https://en.wikipedia.org/wiki/List_of_books_banned_in_India
+
+    - What is the procedure by why the govt. bans a book?
+    - What recourse do the citizens have?
+    - Am I committing a crime if I download them?
+
+* https://en.wikipedia.org/wiki/Censorship_in_India
+
+* https://en.wikipedia.org/wiki/List_of_films_banned_in_India

@@ -1,7 +1,7 @@
 
-# Deep Work 
+# Deep Work
 
-Notes on the book: 
+Notes on the book:
 _Deep Work - Rules for Focused Success in a Distracted World_ by Cal Newport
 
 * [Youtube Video](https://www.youtube.com/watch?v=3E7hkPZ-HTk)
@@ -10,13 +10,16 @@ _Deep Work - Rules for Focused Success in a Distracted World_ by Cal Newport
 
 - MS & PhD in Computer Science from MIT
     + Thesis: [Distributed computation on unreliable radio channels](https://dspace.mit.edu/handle/1721.1/55120)
-        * (fucking 175 pages)
+        * (fucking 175 pages!)
 
 - Now a professor at Georgetown
     + Research: Distributed System
     + Courses: Intro to CS, Theory of Computation
 
 - Multiple other self-improvement books
+
+    + _Digital Minimalism: Choosing a Focused Life in a Noisy World_
+        + `TODO`: Find a short youtube video by the author!
 
     + _So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love._
 
@@ -28,9 +31,9 @@ _Deep Work - Rules for Focused Success in a Distracted World_ by Cal Newport
 
 * I want to understand why (& how) some programmers are hyper-productive
     - What is it that they do, that I can too
+    - I felt that I haven't done anything that requires real depth
 
-<!-- I felt that I haven't done anything that requires real depth. -->
-<!-- * Like everyone else, I'm troubled by the amount of time I waste on random sites -->
+<!-- Like everyone else, I'm troubled by the amount of time I waste on random sites -->
 
 * Some hyper-productive programmers
 
@@ -40,7 +43,7 @@ _Deep Work - Rules for Focused Success in a Distracted World_ by Cal Newport
         + Multiple obfuscated C wins
         + Formulae for Pi
 
-        + Studied at "Ecole Polytechnique"
+        + Studied at "Ecole Polytechnique" (poincare!)
 
         + O'Reilly Open Source Award
 
@@ -63,7 +66,7 @@ _Deep Work - Rules for Focused Success in a Distracted World_ by Cal Newport
 
 ---
 
-* TODO: Find more such people
+* `TODO`: Find more amazing people!
     - https://github.com/rekihattori/awesome-programmers
 
 ## todo

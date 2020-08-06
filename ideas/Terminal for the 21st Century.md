@@ -22,6 +22,8 @@
 * How do shells/terminals even work?
     - terminfo etc.
 
+* What did Unix get right?
+
 ## Terminals
 
 * [Extraterm](https://github.com/sedwards2009/extraterm/)
@@ -52,3 +54,5 @@
     - [Research Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7903579)
 
 * [Oil Shell](www.oilshell.org/)
+
+* [Xonsh](https://xon.sh/)

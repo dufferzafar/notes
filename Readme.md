@@ -1,14 +1,23 @@
 
 # notes
 
+_Life is a big experiment. There's no success. No failure. Just observation tables._
+
 Notes made on various topics.
 
+* Why
+    - :heart:
 * How
-    - I read up PDFs on my iPad and annotate them. 
-    - I then use a script to export these annotations to markdown. 
-    - I go through the markdown & hand-edit it
+    1. <!-- Baad Fajr: --> I read PDFs on my iPad & annotate them
+    2. <!-- Baad Maghrib: --> I then use a script to export these annotations to markdown
+    3. <!-- Baad Tahajjud: --> I go through the markdown & hand-edit it
 
-## links
+## todo
+
+* Use a better note taking system on vscode
+    * Roam research alternatives
+
+## outgoing
 
 * The habit of "marginalia"
     - [Reading with a pencil](https://austinkleon.com/2018/08/30/reading-with-a-pencil/)
@@ -16,6 +25,9 @@ Notes made on various topics.
 
 * [@hthuwal's notes](https://github.com/hthuwal/notes)
     - Physics
+
+* Nikita Voloboev
+    - https://github.com/nikitavoloboev/knowledge
 
 ---
 
