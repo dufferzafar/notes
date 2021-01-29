@@ -3,7 +3,9 @@
 
 is hard.
 
-## Thoughts
+See also: a repo that i created while preparing for CS Interviews: https://github.com/dufferzafar/interview-prep
+
+## thoughts
 
 To me, programming has always been about solving *my* problems. Not anyone elses.
 
@@ -21,7 +23,7 @@ This took me back to the school / coaching days. For most of the days, my schedu
 
 It was very clear to me that I'm only doing this as to pepare for interviews, and won't be doing it again till the next set of interviews come.
 
-## Challenges Faced
+## Some challenges faced
 
 * Algorithmic Thinking
 
