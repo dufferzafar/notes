@@ -31,7 +31,7 @@ Notes made on various topics.
 
 ---
 
-<!-- Even though this repo has no code,  -->
+<!-- Even though this repo has no code  -->
 
 <!-- All topics listed here are interesting to me, so if you want to  -->
 
