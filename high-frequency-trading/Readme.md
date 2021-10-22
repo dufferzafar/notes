@@ -29,6 +29,12 @@
 
 * [C++ for low latency systems course](https://cppcon.org/using-c-for-low-latency-systems/)
 
+* OrderBook design
+    * [QuantCup 1's Winning design](https://gist.github.com/druska/d6ce3f2bac74db08ee9007cdf98106ef)
+    * [Binary Tree based design](https://web.archive.org/web/20110219163448/http://howtohft.wordpress.com/2011/02/15/how-to-build-a-fast-limit-order-book/)
+    * [StackExchange Discussion](https://quant.stackexchange.com/questions/3783/what-is-an-efficient-data-structure-to-model-order-book)
+    * [Github Repo](https://github.com/Kautenja/limit-order-book)
+
 * Tech stack
     - [Amazing article from ACM Queue](https://queue.acm.org/detail.cfm?id=2536492)
     - [Low Latency Linux | SE](https://softwareengineering.stackexchange.com/questions/183723/low-latency-unix-linux)
