@@ -1,6 +1,14 @@
 
 # India
 
+## History
+
+* [Names for India](https://en.wikipedia.org/wiki/Names_for_India)
+    * India (Indus), Hind / Hindustān (Sindhu), Bhārata (Dashrath)
+    * Jambudvīpa, Tianzhu, Hodu
+    * Historical definitions of India & Greater India
+    * Republic of India
+
 ## Courses
 
 * [Indian Civilization - Pritchett](http://www.columbia.edu/itc/mealac/pritchett/00fwp/indciv_course.html#texts)

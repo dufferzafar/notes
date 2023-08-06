@@ -20,21 +20,22 @@ _Some verses are not by Naaz but were added by NFAK._
             * Tadbeer, Taqdeer, Araishein/Kaunain, Khatm, La Makaani, Nahn o Aqrab
             * Insaan/Khilafat, Tamasha, Pehchaan, Chupa
 
-        * 8:50 - 
+        * 8:50 - 10:40
+            * 
 
 
 
 * [30 Min Version - NFAK](https://www.youtube.com/watch?v=D1kKeA1OJK0)
     * Audio only
 
-## Quranic
+## Details
 
 * Nahan-o-aqrab
     * Excerpt from Quran
     * "nahnu aqrab ileyhi min hablil wareed"
     * "i am in your juglar vein" 
 
-
+* Namrood (Nimrod - King)
 
 
 ## हिस्सा – १

@@ -105,6 +105,16 @@
 
 * Problem 2: Lumpsump investment
     * What if you had 50 lakh in hand right now?
+        * [Deploying lumpsum into equities via PowerSTP](https://www.fundsindia.com/blog/mf-research/how-to-deploy-lumpsum-into-equities/20848)
+            * 
+
+        * First park in a safe debt fund
+        * Gradually move into an equity fund
+        * PowerSTP: 0-6x multiplier based on a valuation model
+            * Market cap to GDP
+            * Price to earnings
+            * Price to book value
+            * 
 
     * Diversification
 

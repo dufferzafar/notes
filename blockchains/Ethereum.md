@@ -10,4 +10,3 @@ by Vitalik and ...?
     * [What is calldata](https://ethereum.stackexchange.com/questions/52989)
     * [vs Memory](https://ethereum.stackexchange.com/questions/74442)
     * [What is an ABI](https://ethereum.stackexchange.com/questions/234)
-

@@ -18,7 +18,7 @@ Extension: https://github.com/varunkumar/google-input-tools
 
     - https://github.com/varnamproject/libvarnam
 
-    - Has an API too: https://www.varnamproject.com/editor 
+    - Has an API too: https://www.varnamproject.com/editor
 
 * Polyglot
     - https://github.com/aboSamoor/polyglot

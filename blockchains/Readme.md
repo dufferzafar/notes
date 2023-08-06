@@ -3,6 +3,10 @@
 * Top cryptocurrencies
     * By marketcap / volume traded: https://coinmarketcap.com/
 
+## Resources
+
+* [Bankless](https://newsletter.banklesshq.com/p/-guide-1-starting-with-bankless)
+
 ## Distributed ledgers / Permissionless blockchains
 
 * How is a DLT different from a distributed database?

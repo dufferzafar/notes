@@ -1,14 +1,19 @@
-# Cardano
+## Cardano
 
 * Codebase
     * Proof-of-correctness of their code?
 
 * Eras
-    * 
 
 * Running a thin-client on Windows
 
-## NFT
+## Plutus
+
+* Setup
+
+* What tooling exists?
+
+## NFT Sales analysis
 
 <!-- Conversion rates -->
 ADA_INR = 167.77

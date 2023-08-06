@@ -2,6 +2,11 @@
 # Learning Security
 
 
+## New technologies
+
+* WireGuard VPN
+    * Tailscale
+
 ## Careers
 
 * [Job Descriptions for varioues positions](https://www.lucideus.com/careers.html)

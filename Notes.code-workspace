@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../+todo"
+		},
+		{
+			"path": "../blog"
+		},
+		{
+			"path": "../interview-prep"
+		},
+		{
+			"path": "../private-notes"
+		},
+		{
+			"path": "../../.hammerspoon"
+		}
+	],
+	"settings": {
+		"print.colourScheme": "GitHub",
+		"frontMatter.content.autoUpdateDate": false,
+		"frontMatter.content.fmHighlight": true,
+		"frontMatter.dashboard.openOnStart": false,
+		"[markdown]": {
+		},
+		"editor.fontSize": 15,
+	}
+}

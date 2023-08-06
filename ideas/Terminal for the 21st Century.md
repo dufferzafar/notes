@@ -11,7 +11,7 @@
 * What could be better?
 
 * What terminals exist?
-    - Their classes: 
+    - Their classes:
         + Fully native
         + Electron based
         + Different UI etc?
@@ -33,6 +33,8 @@
     - [Why bother at all](http://extraterm.org/why.html)
         + Be better at text?!
 
+* domterm
+
 * [notty](https://github.com/withoutboats/notty/)
     - In Rust
     - Goal was to reinvent terminals
@@ -44,6 +46,13 @@
 * [iterm2](https://gitlab.com/gnachman/iterm2/)
     - The gold standard?
     - Only for MacOS
+
+* refterm
+* Windows Terminal
+* wezterm
+* alacritty
+* zutty
+* warp.dev
 
 ## Shells
 

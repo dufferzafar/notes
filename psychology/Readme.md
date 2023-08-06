@@ -77,6 +77,20 @@
 * [Bullying and health-related symptoms](https://pediatrics.aappublications.org/content/117/5/1568.short)
     * Do bullied children get ill, or do ill children get bullied?
 
+### Domestic Violence & Children
+
+* https://www.womenshealth.gov/relationships-and-safety/domestic-violence/effects-domestic-violence-children
+
+* Children Who Witness Domestic Violence_ The Invisible Victims (Social Policy Report, vol. 9, issue 3) (1995)
+
+* Children Who Witness Domestic Violence
+    * [A Review of Empirical Literature](http://library.lol/scimag/10.1177/088626096011002010) - 1996
+    * 
+
+* Parenting in Battered Women
+    * The Effects of Domestic Violence on Women and Their Children
+    * [Link](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/44912/10896_2004_Article_298363.pdf)
+
 ## Miscellanous Topics / Questions
 
 * Associations / Triggers
